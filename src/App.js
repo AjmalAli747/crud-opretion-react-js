@@ -1,8 +1,11 @@
 import React from 'react'
+import CreateData from './Components/CreateData'
 
 const App = () => {
   return (
-    <div>App</div>
+    <>
+      <CreateData />
+    </>
   )
 }
 
